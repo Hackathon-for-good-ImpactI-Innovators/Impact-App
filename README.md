@@ -41,7 +41,7 @@ Api design and web app:
 ![App Screenshot](https://user-images.githubusercontent.com/57040777/236698243-ac45504c-aeef-4bbf-8ec5-e6ed57255057.jpg) 
 
 Data Transformations and reporting:
-![App Screenshot](pythonfunctions/Hackathon_AWS-Page-1.jpg) 
+![App Screenshot](https://github.com/Hackathon-for-good-ImpactI-Innovators/Impact-DataInsights/blob/main/pythonfunctions/Hackathon_AWS-Page-1.jpg) 
 
 Utilizando los siguientes servicios de AWS en diferentes regiones, dando prioridad siempre a la nueva región de España: 
 
