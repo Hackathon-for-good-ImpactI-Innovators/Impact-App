@@ -55,7 +55,14 @@ Utilizando los siguientes servicios de AWS en diferentes regiones, dando priorid
 - <b>AWS Lambda</b> para ejecutar piezas de código ejecutables antes un evento, como puede ser un archivo subido a un S3 bucket.
 - <b>Amazon Quick Sight</b> para la creacion y visualización de datos en forma de gráficos.
 
-## Demo Video
+### Repositorios de código
+
+En esta organización, teneis 2 repositorios de código donde se detalla la funcionalidad de cada uno y los servicios utilizados:
+
+https://github.com/Hackathon-for-good-ImpactI-Innovators/Impact-DataInsights
+
+https://github.com/Hackathon-for-good-ImpactI-Innovators/ImpactInnovatorsAPI
+# Demo Video
 
 Para ver la solución integral pueden dirigirse a este link: 
 
@@ -68,15 +75,6 @@ https://drive.google.com/drive/folders/1CdklyiheV5JxB9y6lYoPQppFMBvoOSld?usp=sha
 
 Data Insights y Procesamiento de datos:
 https://drive.google.com/file/d/1DTQNVNdsm31TgtuiUy1gRH7jyztDI8yP/view?usp=drive_web
-
-
-### Repositorios de código
-
-En esta organización, teneis 2 repositorios de código donde se detalla la funcionalidad de cada uno y los servicios utilizados:
-
-https://github.com/Hackathon-for-good-ImpactI-Innovators/Impact-DataInsights
-
-https://github.com/Hackathon-for-good-ImpactI-Innovators/ImpactInnovatorsAPI
 
 
 # Miembros: 
