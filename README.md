@@ -1,4 +1,4 @@
-# ImpactInnovators-CruzRoja
+# ImpactInnovators- Proyecto Cruz Roja España
 
 Repositorio para el proyecto del grupo Impact Innovators en el Hackthon for Good Spain de AWS - España. 
 Una solución que mejora la experiencia de los usuarios de Cruz Roja y sus beneficiarios a través de una aplicación web.  
